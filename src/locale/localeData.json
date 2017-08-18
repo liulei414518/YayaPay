@@ -1,0 +1,38 @@
+{
+	"jp":{
+		"pos" : "POS",
+		"history" : "jp-交易历史",
+		"account" : "jp-账户信息",
+		"setting" : "jp-设置",
+		"cservice" : "jp-联系客服",
+		"gathering" : "jp-收款￥0",
+	},
+
+	"zh_CN":{
+		"pos" : "POS",
+		"history" : "交易历史",
+		"account" : "账户信息",
+		"setting" : "设置",
+		"cservice" : "联系客服",
+		"gathering" : "收款￥0",
+		"pricefont":"金额",
+		"price":"￥ 0 RMB",
+		"inputPWd": "请输入密码",
+		"PWd":"密码",
+		"forgetPWD":"忘记密码",
+		"inputVCode":"请输入验证码",
+		"VCode": "验证码",
+		"CService_Tip1":"我们表现如何",
+		"login":"员工登录",
+		"registe":"管理员登录"
+	},
+
+	"en":{
+		"pos" : "POS",
+		"history" : "en-交易历史",
+		"account" : "en-账户信息",
+		"setting" : "en-设置",
+		"cservice" : "en-联系客服",
+		"gathering" : "en-收款￥0",
+	}
+}
