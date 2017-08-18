@@ -1,0 +1,5 @@
+rootProject.name = 'YayaPay'
+include ':react-native-deviceinfo'
+project(':react-native-deviceinfo').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-deviceinfo/android')
+
+include ':app'
